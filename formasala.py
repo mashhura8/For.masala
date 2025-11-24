@@ -1,4 +1,4 @@
-# For tsikli bo'yicha masalalar (1-qism)'
+# For tsikli bo'yicha masalalar (1-qism)
 # 1-masala
 for son in range (1,11):
     print(son, end=" ")
